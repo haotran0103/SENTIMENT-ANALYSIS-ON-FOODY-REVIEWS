@@ -13,7 +13,7 @@
 ### 1. Clone repository
 
 ```bash
-git clone [https://github.com/your-username/sentiment-analysis-ecommerce](https://github.com/haotran0103/SENTIMENT-ANALYSIS-ON-FOODY-REVIEWS).git
+git clone https://github.com/your-username/sentiment-analysis-ecommerce.git
 cd sentiment-analysis-ecommerce
 ```
 
@@ -115,9 +115,7 @@ class Config:
     MAX_SEQ_LENGTH = 128
     BATCH_SIZE = 32
 
-## test với postman
-![Alt text](/images/test_api.png)
-
-
     LOG_FILE = "logs/api_log.log"
 ```
+## test với postman
+![Alt text](/images/test_api.png)
