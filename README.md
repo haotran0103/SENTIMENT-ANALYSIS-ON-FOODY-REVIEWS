@@ -1,5 +1,5 @@
 
-# AI-powered Sentiment Analysis for E-commerce
+# AI-powered Sentiment Analysis Foody review
 
 ### Các tính năng chính:
 - **Phân loại cảm xúc (tích cực/tiêu cực)**: Dự đoán cảm xúc của người dùng từ các đánh giá văn bản.
